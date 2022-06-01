@@ -27,4 +27,4 @@ cd into the folder
 
 `./build.sh`
 
-your binary will be located in the `project/bin` folder
+your binary will be located in the `$project/bin` folder
