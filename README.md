@@ -26,3 +26,5 @@ cd into the folder
 `sudo chmod +x ./build.sh`
 
 `./build.sh`
+
+your binary will be located in the `project/bin` folder
